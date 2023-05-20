@@ -14,8 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidBook"
 include ':app'
-include ':test1'
-include ':test2'
-include ':test3'
 include ':test04'
 include ':test03'
