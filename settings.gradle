@@ -16,3 +16,5 @@ rootProject.name = "AndroidBook"
 include ':app'
 include ':test04'
 include ':test03'
+include ':test17-4'
+include ':test18'
